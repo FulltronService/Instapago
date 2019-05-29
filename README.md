@@ -11,10 +11,10 @@ Instapago is a technological solution designed for the market of electronic comm
 
 ---
 
-* Autor: Angel Cruz
-* Url: http://abr4xas.org
-* Email: me@abr4xas.org
-* Licencia: GPLv3
+* Autor: Fulltron Service
+* Url: https://fulltron.net
+* Email: info@fulltron.net
+* Licencia: GPLv3 (Free for All)
 
 
 Los logos son propiedad de Instapago y Banesco, respectivamente.
