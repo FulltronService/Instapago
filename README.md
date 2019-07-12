@@ -8,9 +8,6 @@ Instapago is a technological solution designed for the market of electronic comm
 
 ---
 
-* Autor: Fulltron Service
-* Url: https://fulltron.net
-* Email: info@fulltron.net
 * Licencia: GPLv3 (Free for All)
 
 
